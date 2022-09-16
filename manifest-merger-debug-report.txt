@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\d1837297604bb3fa9922e5f6d4c2a438\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\8c63ac7524742b843fbd50ad8f70db30\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\dbdcbde96084552b215e86db118e4886\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\60dc14e26e3184f3c37a87d1780b4745\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\1bc8450611b55de2409e040dccf40a7d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f6bf27d8f040758b86cdc0097fded292\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f703635cd90fc2dad32666fa4e3c81cd\AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\6115d609b66a9d8a47ea299ba86d326d\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\05e1ac68711c9dc74449c990f29a4911\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\8feac84bb97ec55586fc3a31a135edae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\1529f613493c40a64a054411f3b03e1b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\61e4f954abeebe28e86f962bb2d6026f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\ab826cf0139988594c8ad8f67da01469\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\1c288ebfdb5f6143b2245374c5433d27\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\42a5865f9cd9cc524cf7ef7204c6f892\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f2e83fa847a4d2aa2777d63721ea7e13\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f9e482fdea2f38cdcc7eddb4f38a2736\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\08e5fa095837d97c3a86201d25dd6869\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\554b6a1835061d2212e8e43440cd4fb1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\a914a6f7bb8ea9434249457eecc3fd7f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\4ccf67800d0215cc9ad79a88ab98d865\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\60a77b3e69db54a337d8db9632f66a26\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\4449cb0bb6e162d5258910d7c39c9636\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f45319c69a5fd582310fa83614ea791b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\17d9317bcd6492940dbe45460bb82cf2\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\d1dc8c67a4fec06facdcc42e35faf16d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\87b250fbbe321e2963c9801cec65e28b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\3819aa4a4b4814880093a1d45aac3533\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\9886f8aed9689fcd73cb34c3452cff2e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\e9b0211559fb08c3775bbaa5da74bc95\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\34715357d1e82225c0e07c16332a0a48\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\b642d947e3e6291e452b2342e60f00c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\9214b6f9fb289b240b5d56f76f32929e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f4bef85627010669bdff6fdf740f6ca9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\be67e09ba509cef31bcded32ebd0e8df\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\192bb1a78bd611ef6dd88910165de8d2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:10:22-63
+application
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:12:5-46:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\d1837297604bb3fa9922e5f6d4c2a438\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\d1837297604bb3fa9922e5f6d4c2a438\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f6bf27d8f040758b86cdc0097fded292\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f6bf27d8f040758b86cdc0097fded292\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f703635cd90fc2dad32666fa4e3c81cd\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f703635cd90fc2dad32666fa4e3c81cd\AndroidManifest.xml:7:5-12:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\6115d609b66a9d8a47ea299ba86d326d\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\6115d609b66a9d8a47ea299ba86d326d\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f45319c69a5fd582310fa83614ea791b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f45319c69a5fd582310fa83614ea791b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\17d9317bcd6492940dbe45460bb82cf2\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\17d9317bcd6492940dbe45460bb82cf2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f45319c69a5fd582310fa83614ea791b\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:17:9-54
+	android:largeHeap
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:16:9-33
+	android:icon
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:19:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:20:9-44
+activity#com.quintus.labs.grocerystore.activity.WelcomeActivity
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:21:9-31:20
+	android:label
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:24:13-45
+	android:configChanges
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:23:13-74
+	android:theme
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:22:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.quintus.labs.grocerystore.activity.MainActivity
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:32:9-35:59
+	android:configChanges
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:34:13-74
+	android:theme
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:33:13-50
+activity#com.quintus.labs.grocerystore.activity.BaseActivity
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:36:9-59
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:36:19-56
+activity#com.quintus.labs.grocerystore.activity.ProductActivity
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:37:9-39:77
+	android:configChanges
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:38:13-53
+activity#com.quintus.labs.grocerystore.activity.LoginRegisterActivity
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:40:9-42:77
+	android:configChanges
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:42:13-74
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:41:13-59
+activity#com.quintus.labs.grocerystore.activity.CartActivity
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:43:9-59
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:43:19-56
+activity#com.quintus.labs.grocerystore.activity.CheckoutActivity
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:44:9-63
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:44:19-60
+activity#com.quintus.labs.grocerystore.activity.ProductViewActivity
+ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:45:9-75
+	android:name
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml:45:19-63
+uses-sdk
+INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\d1837297604bb3fa9922e5f6d4c2a438\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\d1837297604bb3fa9922e5f6d4c2a438\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\8c63ac7524742b843fbd50ad8f70db30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\8c63ac7524742b843fbd50ad8f70db30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\dbdcbde96084552b215e86db118e4886\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\dbdcbde96084552b215e86db118e4886\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\60dc14e26e3184f3c37a87d1780b4745\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\60dc14e26e3184f3c37a87d1780b4745\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\1bc8450611b55de2409e040dccf40a7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\1bc8450611b55de2409e040dccf40a7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f6bf27d8f040758b86cdc0097fded292\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f6bf27d8f040758b86cdc0097fded292\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f703635cd90fc2dad32666fa4e3c81cd\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f703635cd90fc2dad32666fa4e3c81cd\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\6115d609b66a9d8a47ea299ba86d326d\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\6115d609b66a9d8a47ea299ba86d326d\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\05e1ac68711c9dc74449c990f29a4911\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\05e1ac68711c9dc74449c990f29a4911\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\8feac84bb97ec55586fc3a31a135edae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\8feac84bb97ec55586fc3a31a135edae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\1529f613493c40a64a054411f3b03e1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\1529f613493c40a64a054411f3b03e1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\61e4f954abeebe28e86f962bb2d6026f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\61e4f954abeebe28e86f962bb2d6026f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\ab826cf0139988594c8ad8f67da01469\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\ab826cf0139988594c8ad8f67da01469\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\1c288ebfdb5f6143b2245374c5433d27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\1c288ebfdb5f6143b2245374c5433d27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\42a5865f9cd9cc524cf7ef7204c6f892\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\42a5865f9cd9cc524cf7ef7204c6f892\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f2e83fa847a4d2aa2777d63721ea7e13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f2e83fa847a4d2aa2777d63721ea7e13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f9e482fdea2f38cdcc7eddb4f38a2736\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f9e482fdea2f38cdcc7eddb4f38a2736\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\08e5fa095837d97c3a86201d25dd6869\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\08e5fa095837d97c3a86201d25dd6869\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\554b6a1835061d2212e8e43440cd4fb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\554b6a1835061d2212e8e43440cd4fb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\a914a6f7bb8ea9434249457eecc3fd7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\a914a6f7bb8ea9434249457eecc3fd7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\4ccf67800d0215cc9ad79a88ab98d865\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\4ccf67800d0215cc9ad79a88ab98d865\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\60a77b3e69db54a337d8db9632f66a26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\60a77b3e69db54a337d8db9632f66a26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\4449cb0bb6e162d5258910d7c39c9636\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\4449cb0bb6e162d5258910d7c39c9636\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f45319c69a5fd582310fa83614ea791b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f45319c69a5fd582310fa83614ea791b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\17d9317bcd6492940dbe45460bb82cf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\17d9317bcd6492940dbe45460bb82cf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\d1dc8c67a4fec06facdcc42e35faf16d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\d1dc8c67a4fec06facdcc42e35faf16d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\87b250fbbe321e2963c9801cec65e28b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\87b250fbbe321e2963c9801cec65e28b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\3819aa4a4b4814880093a1d45aac3533\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\3819aa4a4b4814880093a1d45aac3533\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\9886f8aed9689fcd73cb34c3452cff2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\9886f8aed9689fcd73cb34c3452cff2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\e9b0211559fb08c3775bbaa5da74bc95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\e9b0211559fb08c3775bbaa5da74bc95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\34715357d1e82225c0e07c16332a0a48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\34715357d1e82225c0e07c16332a0a48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\b642d947e3e6291e452b2342e60f00c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\b642d947e3e6291e452b2342e60f00c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\9214b6f9fb289b240b5d56f76f32929e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\9214b6f9fb289b240b5d56f76f32929e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f4bef85627010669bdff6fdf740f6ca9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f4bef85627010669bdff6fdf740f6ca9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\be67e09ba509cef31bcded32ebd0e8df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\be67e09ba509cef31bcded32ebd0e8df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\192bb1a78bd611ef6dd88910165de8d2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\192bb1a78bd611ef6dd88910165de8d2\AndroidManifest.xml:20:5-44
+INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ANDROIDM\GroceryStore-master\GroceryStore-master\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f703635cd90fc2dad32666fa4e3c81cd\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f703635cd90fc2dad32666fa4e3c81cd\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f703635cd90fc2dad32666fa4e3c81cd\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\New Owner\.gradle\caches\transforms-2\files-2.1\f703635cd90fc2dad32666fa4e3c81cd\AndroidManifest.xml:9:13-64
